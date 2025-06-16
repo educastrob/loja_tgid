@@ -13,13 +13,19 @@ cd tgid_store
 ```
 
 # 2. Instale as dependências
+```bash
 npm install
+```
 
 # 3. Inicie o servidor de API (em um terminal separado)
+```bash
 npm run server
+```
 
 # 4. Inicie a aplicação React
+```bash
 npm start
+```
 
 <h3 align="center"> Acesse a aplicação em <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> </h3>
 <div align="center"> <sub>Criado com React e JSON Server</sub> </div>
