@@ -6,10 +6,11 @@
 
 ## ⚡ Como Iniciar
 
-```bash
 # 1. Clone o repositório
+```bash
 git clone https://github.com/seu-usuario/tgid_store.git
-cd techstore
+cd tgid_store
+```
 
 # 2. Instale as dependências
 npm install
@@ -21,4 +22,4 @@ npm run server
 npm start
 
 <h3 align="center"> Acesse a aplicação em <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> </h3>
-<div align="center"> <sub>Criado com React e JSON Server</sub> </div> ```
+<div align="center"> <sub>Criado com React e JSON Server</sub> </div>
