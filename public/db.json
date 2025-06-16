@@ -1,0 +1,202 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro 16\"",
+      "price": 2499.99,
+      "image": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Powerful laptop with M2 Pro chip, perfect for professional work and creative tasks.",
+      "category": "Laptops",
+      "rating": 4.8,
+      "reviews": 324,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15 Pro",
+      "price": 999.99,
+      "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Latest iPhone with titanium design and advanced camera system.",
+      "category": "Smartphones",
+      "rating": 4.9,
+      "reviews": 567,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "price": 399.99,
+      "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Premium noise-canceling headphones with exceptional sound quality.",
+      "category": "Audio",
+      "rating": 4.7,
+      "reviews": 892,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "iPad Air",
+      "price": 599.99,
+      "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Versatile tablet perfect for work, creativity, and entertainment.",
+      "category": "Tablets",
+      "rating": 4.6,
+      "reviews": 445,
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch Series 9",
+      "price": 429.99,
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Advanced smartwatch with health monitoring and fitness tracking.",
+      "category": "Wearables",
+      "rating": 4.8,
+      "reviews": 678,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Samsung 4K Monitor",
+      "price": 349.99,
+      "image": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "32-inch 4K monitor with HDR support for professional work.",
+      "category": "Monitors",
+      "rating": 4.5,
+      "reviews": 234,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Keyboard",
+      "price": 159.99,
+      "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Premium mechanical keyboard with RGB backlighting.",
+      "category": "Accessories",
+      "rating": 4.4,
+      "reviews": 156,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Wireless Mouse",
+      "price": 79.99,
+      "image": "https://images.pexels.com/photos/2115217/pexels-photo-2115217.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Ergonomic wireless mouse with precision tracking.",
+      "category": "Accessories",
+      "rating": 4.3,
+      "reviews": 289,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "USB-C Hub",
+      "price": 49.99,
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Multi-port USB-C hub with HDMI, USB, and charging support.",
+      "category": "Accessories",
+      "rating": 4.2,
+      "reviews": 178,
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Gaming Laptop",
+      "price": 1899.99,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=500",
+      "description": "High-performance gaming laptop with RTX graphics.",
+      "category": "Laptops",
+      "rating": 4.6,
+      "reviews": 412,
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Wireless Earbuds",
+      "price": 199.99,
+      "image": "https://images.pexels.com/photos/8534088/pexels-photo-8534088.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Premium wireless earbuds with active noise cancellation.",
+      "category": "Audio",
+      "rating": 4.5,
+      "reviews": 634,
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "name": "Smartphone Stand",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/4906550/pexels-photo-4906550.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Adjustable smartphone stand for desk and bedside use.",
+      "category": "Accessories",
+      "rating": 4.1,
+      "reviews": 89,
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "name": "Portable Charger",
+      "price": 39.99,
+      "image": "https://images.pexels.com/photos/4790267/pexels-photo-4790267.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "High-capacity portable charger with fast charging support.",
+      "category": "Accessories",
+      "rating": 4.4,
+      "reviews": 267,
+      "inStock": true
+    },
+    {
+      "id": 14,
+      "name": "Bluetooth Speaker",
+      "price": 129.99,
+      "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Waterproof Bluetooth speaker with 360-degree sound.",
+      "category": "Audio",
+      "rating": 4.3,
+      "reviews": 345,
+      "inStock": true
+    },
+    {
+      "id": 15,
+      "name": "Webcam HD",
+      "price": 89.99,
+      "image": "https://images.pexels.com/photos/4792728/pexels-photo-4792728.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "1080p HD webcam with auto-focus and noise reduction.",
+      "category": "Accessories",
+      "rating": 4.2,
+      "reviews": 123,
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "name": "Gaming Mouse",
+      "price": 99.99,
+      "image": "https://images.pexels.com/photos/2148216/pexels-photo-2148216.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "High-precision gaming mouse with customizable RGB lighting.",
+      "category": "Gaming",
+      "rating": 4.6,
+      "reviews": 198,
+      "inStock": true
+    },
+    {
+      "id": 17,
+      "name": "Tablet Case",
+      "price": 24.99,
+      "image": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Premium leather case with stand functionality for tablets.",
+      "category": "Accessories",
+      "rating": 4.0,
+      "reviews": 76,
+      "inStock": true
+    },
+    {
+      "id": 18,
+      "name": "Smart Watch Band",
+      "price": 19.99,
+      "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "description": "Silicone sport band compatible with most smartwatches.",
+      "category": "Wearables",
+      "rating": 3.9,
+      "reviews": 54,
+      "inStock": true
+    }
+  ]
+}
