@@ -8,7 +8,7 @@
 
 # 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/tgid_store.git
+git clone https://github.com/educastrob/tgid_store.git
 cd tgid_store
 ```
 
