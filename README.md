@@ -29,3 +29,4 @@ npm start
 
 <h3 align="center"> Acesse a aplicação em <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> </h3>
 <div align="center"> <sub>Criado com React e JSON Server</sub> </div>
+
